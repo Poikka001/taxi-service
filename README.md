@@ -172,9 +172,17 @@ column 'Drivers' contains 3 values from the table
 ## technologies-used
 ##### in this project such tools were used as:
 
- 	MySQL Workbench
+	java 11
+	servlet API
+	Maven
+	Injector
+	JSP
+	JDBC
+	SOLID
+	MySQL
+ 	Workbench
  	apache-tomcat-9.0.75
-
+	
 ---
 ## instructions
 1. Connect to SQL using the console:
